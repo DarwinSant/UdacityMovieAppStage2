@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_bb3d5b176acbd95a92072fa3ef924bfb35b59cd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_5d6e48e73970de16fd8499829efac3d4018f7934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_d87aeb6e64036f620ca0d7e3e53fca3a42e9c635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0_0e81c8defb79224cc549289049d75acd5ef6fa8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_a0caa60aee3916832e19d9859affb888e7283a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_cfc3c80c0c4987afc8d1c2dfb386233255c321fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_7f01e599ddb37ec7a49a4693272238f5c776b6e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_fba3d75a12c1d5c7ea28b8184fd8dc32403e0b73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_a56c47b8f25d0fd46ce642c10510182d2afabc63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_3861289f7304b956db6b6524e9b86d410b1504b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_b1e0497e45dceada31b55f2e48ea17433687fc10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_54765b53554973598f82cc386b0da921ac217b9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_bac6d9dc270ab2bf64ff99fff7f1f1e6e0a31581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_da763bdb40be000ef74113ce7959dabb7f49db56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0\constraint-layout-solver-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0_abb79c83d85c1af68a6a1250a8f016a0bc74fe26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.5.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="C:\Users\darwi\Downloads\movies app\Popular-Movies-Stage-2-master\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.5.1_819937d6ee2c90ae050dc8c4aaa9da6024716e9b.jar" />
+    </item>
+
+</items>
